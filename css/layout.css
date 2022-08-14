@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: red; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -251,7 +251,7 @@ ul#nav li.current a { color: #31b0d9; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #31b0d9;
    padding-bottom: 6px;
 }
 #resume h3 {
