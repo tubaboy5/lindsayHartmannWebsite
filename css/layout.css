@@ -52,17 +52,22 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
-
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 90px/1.1em 'helvetica', sans-serif;
    color: #fff;
-   letter-spacing: -2px;
-   margin: 0 auto 18px auto;
+   letter-spacing: -1px;
+   margin: 0 auto 40px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   font-family: "Dancing Script"; 
+   font-size: 24px; 
+   font-style: normal; 
+   font-variant: normal; 
+   font-weight: 700; 
+   line-height: 26.4px; 
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
