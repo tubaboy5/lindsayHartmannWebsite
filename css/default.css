@@ -805,6 +805,7 @@ input[type="checkbox"] {
   width: auto;
   max-width: none;
   margin: 0 -20px;
+  margin-bottom: 50px;
 }
 
 /* row clearing */
