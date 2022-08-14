@@ -817,12 +817,14 @@ input[type="checkbox"] {
   clear: both;
 }
 
+/* Deleted border box
 .border-box {
    border-style: solid;
    border-color: black;
    border-width: 1px;
    padding: 10px;
-}
+   margin: 25px;
+} */
 
 .column,
 .columns {
